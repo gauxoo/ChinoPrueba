@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="ES 01 MOVISTAR+ VIP",ES: LA 1 FHD
 http://973281831399268032.yoyo2.xyz:80/vtest62621/vtest62621/268032
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="ES 01 MOVISTAR+ VIP",ES: LA 1 HD
-http://973281831399268033.yoyo2.xyz:80/vtest62621/vtest62621/268033
 #EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/LA2" group-title="ES 01 MOVISTAR+ VIP",ES: LA 2 HD
 http://973281831399268036.yoyo2.xyz:80/vtest62621/vtest62621/268036
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d6d9bf832a0b925f5ec4de7d91dcd96.png" group-title="ES 01 MOVISTAR+ VIP",ES: ANTENA 3 HD
