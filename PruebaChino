@@ -15,6 +15,21 @@ http://192.168.1.134:81/6338_0_12549_29600_1_1_1701_1703_1700_1701_5.ts
 http://192.168.1.134:81/6337_0_12549_29600_1_1_1501_1503_1500_1501_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",laSexta
 http://192.168.1.134:81/6341_0_12549_29600_1_1_301_303_300_301_5.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/estecanaltv/picture?width=200&height=200" group-title="Canarias" tvg-name="Este Canal TV",Este Canal TV
+http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+#EXTINF:-1 tvg-id="MirameTV.TV" tvg-logo="https://graph.facebook.com/mirametvcom/picture?width=200&height=200" group-title="Canarias" tvg-name="Mírame TV",Mírame TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="Canarias" tvg-name="NORTEvisión",NORTEvisión
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="Canarias" tvg-name="Lancelot TV",Lancelot TV
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/estecanaltv/picture?width=200&height=200" group-title="Canarias" tvg-name="Este Canal TV",Este Canal TV
+http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+https://stream.castr.com/5bb7e892db124541361db9b3/live_f8528bd0556211efa3e68502d1474422/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qj92f7GsPI7R-YCYzsFj5mDoSCduHSgh8lwCWHFXbHAx6rNmLsB78RZlmfiqbjYzQdNh1Fj9sQ=s200" group-title="Canarias" tvg-name="Fuerteventura TV",Fuerteventura TV
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg" group-title="Canarias" tvg-name="Factoría de Carnaval",Factoría de Carnaval
+https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 group-title="Hispasat 1D/1E",A7
 http://192.168.1.134:81/6021_0_11348_20857_0_0_1010_1011_1019_1010_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",neox
@@ -1101,3 +1116,9 @@ http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1100838.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MARBELLA TV HD" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/Marbella-TV.png" group-title="ES   MOVISTAR+",ES: MARBELLA TV HD
 http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1100849.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: MIJAS HD" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/mijas-3.40-tv-en-directo.png" 
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 1" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EU | EX-YU VIP",EX-YU: ZADRUGA 1
+http://vipbxcass.top:8080/VIP018611737467989312/ab443da9567e/3619
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 2" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EU | EX-YU VIP",EX-YU: ZADRUGA 2
+http://vipbxcass.top:8080/VIP018611737467989312/ab443da9567e/3620
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 3" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EU | EX-YU VIP",EX-YU: ZADRUGA 3
+http://vipbxcass.top:8080/VIP018611737467989312/ab443da9567e/3621
