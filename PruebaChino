@@ -1142,7 +1142,8 @@ https://eu1.servers10.com:8081/8116/index.m3u8
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/calimafm/picture?width=200&height=200" group-title="Canarias" tvg-name="Radio Calima TV",Radio Calima TV
 https://nrvideo1.newradio.it:443/calimafm/calimafm/playlist.m3u8
-
+#EXTINF:-1 group-title="Astra Emili;TV",CANAL SUR A.
+http://192.168.1.134:81/3304_0_11156_22000_0_1_166_104_1029_5166_1.ts
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 1" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EU | EX-YU VIP",EX-YU: ZADRUGA 1
 http://vipbxcass.top:8080/VIP018611737467989312/ab443da9567e/3619
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 2" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EU | EX-YU VIP",EX-YU: ZADRUGA 2
