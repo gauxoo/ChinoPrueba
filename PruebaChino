@@ -36,6 +36,10 @@ https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 group-title="Hispasat 1D/1E",TVG TDT-Sat
 http://192.168.1.128:81/6020_0_11348_20857_0_0_3001_3002_3000_3001_5.ts
+#EXTINF:-1, POPULAR
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1,EL TORO
+https://edge-nodo-003.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Hispasat 1D/1E",SQUIRREL
 http://192.168.1.128:81/6345_0_12549_29600_1_1_101_103_100_101_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",FDF
