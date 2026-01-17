@@ -1,27 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321276.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321277.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",La 1 HD
-http://192.168.1.134:81/6048_0_11653_19680_0_0_301_302_300_301_5.ts
+http://192.168.1.128:81/6048_0_11653_19680_0_0_301_302_300_301_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",La 2 HD
-http://192.168.1.134:81/6369_0_12672_30000_1_1_401_402_400_401_5.ts
+http://192.168.1.128:81/6369_0_12672_30000_1_1_401_402_400_401_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Antena 3
-http://192.168.1.134:81/6339_0_12549_29600_1_1_101_103_100_101_5.ts
+http://192.168.1.128:81/6339_0_12549_29600_1_1_101_103_100_101_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Cuatro HD
-http://192.168.1.134:81/6338_0_12549_29600_1_1_1701_1703_1700_1701_5.ts
+http://192.168.1.128:81/6338_0_12549_29600_1_1_1701_1703_1700_1701_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Telecinco HD
-http://192.168.1.134:81/6337_0_12549_29600_1_1_1501_1503_1500_1501_5.ts
+http://192.168.1.128:81/6337_0_12549_29600_1_1_1501_1503_1500_1501_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",laSexta
-http://192.168.1.134:81/6341_0_12549_29600_1_1_301_303_300_301_5.ts
+http://192.168.1.128:81/6341_0_12549_29600_1_1_301_303_300_301_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",A7
+http://192.168.1.128:81/6021_0_11348_20857_0_0_1010_1011_1019_1010_5.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",neox
+http://192.168.1.128:81/6343_0_12549_29600_1_1_501_503_500_501_5.ts
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/estecanaltv/picture?width=200&height=200" group-title="Canarias" tvg-name="Este Canal TV",Este Canal TV
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
 #EXTINF:-1 tvg-id="MirameTV.TV" tvg-logo="https://graph.facebook.com/mirametvcom/picture?width=200&height=200" group-title="Canarias" tvg-name="Mírame TV",Mírame TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="Canarias" tvg-name="NORTEvisión",NORTEvisión
 http://amaru.dyndns.org:8870/0.m3u8
-#EXTM3U#
 #EXTINF:-1,Tenerife
 https://videoserver.tmcreativos.com:19360/wwzthqpupr/wwzthqpupr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="Canarias" tvg-name="Lancelot TV",Lancelot TV
@@ -33,78 +32,78 @@ https://stream.castr.com/5bb7e892db124541361db9b3/live_f8528bd0556211efa3e68502d
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg" group-title="Canarias" tvg-name="Factoría de Carnaval",Factoría de Carnaval
 https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 group-title="Hispasat 1D/1E",A7
-http://192.168.1.134:81/6021_0_11348_20857_0_0_1010_1011_1019_1010_5.ts
-#EXTINF:-1 group-title="Hispasat 1D/1E",neox
-http://192.168.1.134:81/6343_0_12549_29600_1_1_501_503_500_501_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",TVG TDT-Sat
-http://192.168.1.134:81/6020_0_11348_20857_0_0_3001_3002_3000_3001_5.ts
+http://192.168.1.128:81/6020_0_11348_20857_0_0_3001_3002_3000_3001_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",SQUIRREL
-http://192.168.1.134:81/6345_0_12549_29600_1_1_101_103_100_101_5.ts
+http://192.168.1.128:81/6345_0_12549_29600_1_1_101_103_100_101_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",FDF
-http://192.168.1.134:81/6335_0_12549_29600_1_1_1301_1303_1300_1301_5.ts
+http://192.168.1.128:81/6335_0_12549_29600_1_1_1301_1303_1300_1301_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Divinity
-http://192.168.1.134:81/6336_0_12549_29600_1_1_1401_1403_1400_1401_5.ts
+http://192.168.1.128:81/6336_0_12549_29600_1_1_1401_1403_1400_1401_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",TRECE
-http://192.168.1.134:81/6350_0_12632_30000_1_1_2001_2003_2000_2001_5.ts
+http://192.168.1.128:81/6350_0_12632_30000_1_1_2001_2003_2000_2001_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",nova
-http://192.168.1.134:81/6344_0_12549_29600_1_1_601_603_600_601_5.ts
+http://192.168.1.128:81/6344_0_12549_29600_1_1_601_603_600_601_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",TEN
-http://192.168.1.134:81/6379_0_12672_30000_1_1_401_402_400_401_5.ts
+http://192.168.1.128:81/6379_0_12672_30000_1_1_401_402_400_401_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",PARAMOUNT NETWOR
-http://192.168.1.134:81/6346_0_12549_29600_1_1_1501_1503_1500_1501_5.ts
+http://192.168.1.128:81/6346_0_12549_29600_1_1_1501_1503_1500_1501_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",DMAX
-http://192.168.1.134:81/6347_0_12549_29600_1_1_301_303_300_301_5.ts
+http://192.168.1.128:81/6347_0_12549_29600_1_1_301_303_300_301_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Energy
-http://192.168.1.134:81/6351_0_12632_30000_1_1_1101_1103_1100_1101_5.ts
+http://192.168.1.128:81/6351_0_12632_30000_1_1_1101_1103_1100_1101_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Divinity
-http://192.168.1.134:81/6373_0_12672_30000_1_1_1401_1403_1400_1401_5.ts
+http://192.168.1.128:81/6373_0_12672_30000_1_1_1401_1403_1400_1401_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",DKISS
-http://192.168.1.134:81/6357_0_12632_30000_1_1_1001_1002_1000_1001_5.ts
+http://192.168.1.128:81/6357_0_12632_30000_1_1_1001_1002_1000_1001_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",BOM
-http://192.168.1.134:81/5978_0_10914_2499_0_0_257_258_256_257_1.ts
+http://192.168.1.128:81/5978_0_10914_2499_0_0_257_258_256_257_1.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",VEO 7
-http://192.168.1.134:81/6348_0_12549_29600_1_1_401_403_400_401_5.ts
+http://192.168.1.128:81/6348_0_12549_29600_1_1_401_403_400_401_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",atreseries HD
-http://192.168.1.134:81/6376_0_12672_30000_1_1_101_103_100_101_5.ts
+http://192.168.1.128:81/6376_0_12672_30000_1_1_101_103_100_101_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",BeMad tv HD
-http://192.168.1.134:81/6377_0_12672_30000_1_1_201_203_200_201_5.ts
+http://192.168.1.128:81/6377_0_12672_30000_1_1_201_203_200_201_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",CyL7
-http://192.168.1.134:81/8053_0_11348_20857_0_0_8000_8001_8020_8000_5.ts
+http://192.168.1.128:81/8053_0_11348_20857_0_0_8000_8001_8020_8000_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Canal Extremadur
-http://192.168.1.134:81/6022_0_11348_20857_0_0_101_103_100_101_5.ts
+http://192.168.1.128:81/6022_0_11348_20857_0_0_101_103_100_101_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",mega HD
-http://192.168.1.134:81/6349_0_12632_30000_1_1_1301_1303_1300_1301_5.ts
+http://192.168.1.128:81/6349_0_12632_30000_1_1_1301_1303_1300_1301_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",SX3/33
-http://192.168.1.134:81/6014_0_11348_20857_0_0_121_122_120_121_5.ts
+http://192.168.1.128:81/6014_0_11348_20857_0_0_121_122_120_121_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",3/24
-http://192.168.1.134:81/6015_0_11348_20857_0_0_131_132_130_131_5.ts
+http://192.168.1.128:81/6015_0_11348_20857_0_0_131_132_130_131_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Esport3
-http://192.168.1.134:81/6016_0_11348_20857_0_0_141_142_140_141_5.ts
+http://192.168.1.128:81/6016_0_11348_20857_0_0_141_142_140_141_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",TV3
-http://192.168.1.134:81/6017_0_11348_20857_0_0_111_112_110_111_5.ts
+http://192.168.1.128:81/6017_0_11348_20857_0_0_111_112_110_111_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",IB3 Global
-http://192.168.1.134:81/6018_0_11348_20857_0_0_311_312_310_311_5.ts
+http://192.168.1.128:81/6018_0_11348_20857_0_0_311_312_310_311_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",24h HD
-http://192.168.1.134:81/6361_0_12632_30000_1_1_1501_1503_1500_1501_5.ts
+http://192.168.1.128:81/6361_0_12632_30000_1_1_1501_1503_1500_1501_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",tdp HD
-http://192.168.1.134:81/6358_0_12632_30000_1_1_4001_4002_4000_4001_5.ts
+http://192.168.1.128:81/6358_0_12632_30000_1_1_4001_4002_4000_4001_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",La 1 UHD
-http://192.168.1.134:81/6355_0_12632_30000_1_1_4001_4002_4000_4001_5.ts
+http://192.168.1.128:81/6355_0_12632_30000_1_1_4001_4002_4000_4001_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Realmadrid TV HD
-http://192.168.1.134:81/6378_0_12672_30000_1_1_301_303_300_301_5.ts
+http://192.168.1.128:81/6378_0_12672_30000_1_1_301_303_300_301_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",CyL7
-http://192.168.1.134:81/6019_0_11348_20857_0_0_8000_8001_8020_8000_5.ts
+http://192.168.1.128:81/6019_0_11348_20857_0_0_8000_8001_8020_8000_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",FDF
-http://192.168.1.134:81/6372_0_12672_30000_1_1_1301_1303_1300_1301_5.ts
+http://192.168.1.128:81/6372_0_12672_30000_1_1_1301_1303_1300_1301_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Telecinco HD
-http://192.168.1.134:81/6374_0_12672_30000_1_1_1501_1503_1500_1501_5.ts
+http://192.168.1.128:81/6374_0_12672_30000_1_1_1501_1503_1500_1501_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Cuatro HD
-http://192.168.1.134:81/6375_0_12672_30000_1_1_1701_1703_1700_1701_5.ts
+http://192.168.1.128:81/6375_0_12672_30000_1_1_1701_1703_1700_1701_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",TV3
-http://192.168.1.134:81/6013_0_11348_20857_0_0_111_112_110_111_5.ts
+http://192.168.1.128:81/6013_0_11348_20857_0_0_111_112_110_111_5.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",Parlamento
-http://192.168.1.134:81/5965_0_10770_30000_0_0_4129_4130_258_4129_1.ts
+http://192.168.1.128:81/5965_0_10770_30000_0_0_4129_4130_258_4129_1.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",TVI Internaciona
+http://192.168.1.128:81/5966_0_10770_30000_0_0_1091_1092_100_1091_17.ts
+#EXTINF:-1 group-title="Hispasat 1D/1E",CUBAVISION INTER
+http://192.168.1.128:81/5967_0_10770_30000_0_0_105_215_38_105_1.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
 http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321276.ts
