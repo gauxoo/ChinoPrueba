@@ -87,7 +87,6 @@ http://192.168.1.132:81/5965_0_10770_30000_0_0_4129_4130_258_4129_1.ts
 http://192.168.1.132:81/5966_0_10770_30000_0_0_1091_1092_100_1091_17.ts
 #EXTINF:-1 group-title="Hispasat 1D/1E",CUBAVISION INTER
 http://192.168.1.132:81/5967_0_10770_30000_0_0_105_215_38_105_1.ts
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/estecanaltv/picture?width=200&height=200" group-title="Canarias" tvg-name="Este Canal TV",Este Canal TV
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
 #EXTINF:-1 tvg-id="MirameTV.TV" tvg-logo="https://graph.facebook.com/mirametvcom/picture?width=200&height=200" group-title="Canarias" tvg-name="Mírame TV",Mírame TV
