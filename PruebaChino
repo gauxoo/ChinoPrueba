@@ -1258,9 +1258,38 @@ http://tv.zapping.life:8080/movie/CarlosPerezIPTVCLUB/FmBqdV449x/160471.mkv
 http://tv.zapping.life:8080/movie/CarlosPerezIPTVCLUB/FmBqdV449x/160472.mkv
 #EXTINF:-1,Stephen (2025)
 http://tv.zapping.life:8080/movie/CarlosPerezIPTVCLUB/FmBqdV449x/160473.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 1" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EU | EX-YU VIP",EX-YU: ZADRUGA 1
-http://vipbxcass.top:8080/VIP018611737467989312/ab443da9567e/3619
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 2" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EU | EX-YU VIP",EX-YU: ZADRUGA 2
-http://vipbxcass.top:8080/VIP018611737467989312/ab443da9567e/3620
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ZADRUGA 3" tvg-logo="https://docdog.top/logo/countries/exyu/ZADRUGA.jpg" group-title="EU | EX-YU VIP",EX-YU: ZADRUGA 3
-http://vipbxcass.top:8080/VIP018611737467989312/ab443da9567e/3621
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31865/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Vamos HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31867/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 6 HD ES
+#EXTGRP:спорт
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/31874/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Golf 2 HD ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6088/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Deportes ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6070/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN F1 ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6071/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Estrenos ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6078/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Golf ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6075/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ LaLiga ES
+#EXTGRP:HD
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6073/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Liga de Campeones ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6396/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Acción ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/7065/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Comedia ES
+#EXTGRP:кино
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/7066/index.m3u8
+#EXTINF:0 tvg-rec="3",M+ Drama ES
