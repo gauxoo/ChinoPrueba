@@ -25,26 +25,97 @@ https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1,EL TORO
 https://edge-nodo-003.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.ts.m3u
 #EXTM3U
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321276.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321277.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 SD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321278.ts
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 HD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321279.ts
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsRPfVyVbQIuM9ODYTe6nZCckr0fF1G95Xp9UdaQfZI5Q.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321105.ts
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO SD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO SD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321429.ts
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="ES   MOVISTAR+",ES: CUATRO HD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321196.ts
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC SD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="ES   MOVISTAR+",ES: AMC SD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321102.ts
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="ES: M+ ORIGINALES HD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Yaf_0AVrSx4Te4QlXVR78oERUoJ9SKg6NR3Ljo4PyMA.png" group-title="ES   MOVISTAR+",ES: M+ ORIGINALES HD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321068.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES DEPORTES",ES: #VAMOS HD
-http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321072.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/logos/la-1.png" group-title="EUIES TDT",ES: LA 1 FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300743.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/logos/la-1.png" group-title="EUIES TDT",ES: LA 1 HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300744.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 SD" tvg-logo="https://miguia.tv/logos/la-1.png" group-title="EUIES TDT",ES: LA 1 SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300745.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/logos/la-2.png" group-title="EUIES TDT",ES: LA 2 FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300749.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/logos/la-2.png" group-title="EUIES TDT",ES: LA 2 HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300750.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 SD" tvg-logo="https://miguia.tv/logos/la-2.png" group-title="EUIES TDT",ES: LA 2 SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300751.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://miguia.tv/logos/antena-3.png" group-title="EUIES TDT",ES: ANTENA 3 FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300752.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://miguia.tv/logos/antena-3.png" group-title="EUIES TDT",ES: ANTENA 3 HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300753.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 SD" tvg-logo="https://miguia.tv/logos/antena-3.png" group-title="EUIES TDT",ES: ANTENA 3 SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300754.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/logos/cuatro.png" group-title="EUIES TDT",ES: CUATRO FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300758.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/logos/cuatro.png" group-title="EUIES TDT",ES: CUATRO HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300759.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO SD" tvg-logo="https://miguia.tv/logos/cuatro.png" group-title="EUIES TDT",ES: CUATRO SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300760.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/logos/telecinco.png" group-title="EUIES TDT",ES: TELECINCO FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300761.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="https://miguia.tv/logos/telecinco.png" group-title="EUIES TDT",ES: TELECINCO HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300762.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO SD" tvg-logo="https://miguia.tv/logos/telecinco.png" group-title="EUIES TDT",ES: TELECINCO SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300763.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://miguia.tv/logos/la-sexta.png" group-title="EUIES TDT",ES: LA SEXTA FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300764.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA HD" tvg-logo="https://miguia.tv/logos/la-sexta.png" group-title="EUIES TDT",ES: LA SEXTA HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300765.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA SD" tvg-logo="https://miguia.tv/logos/la-sexta.png" group-title="EUIES TDT",ES: LA SEXTA SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300766.ts
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF FHD" tvg-logo="https://miguia.tv/logos/fdf.png" group-title="EUIES TDT",ES: FDF FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300767.ts
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF HD" tvg-logo="https://miguia.tv/logos/fdf.png" group-title="EUIES TDT",ES: FDF HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300768.ts
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF SD" tvg-logo="https://miguia.tv/logos/fdf.png" group-title="EUIES TDT",ES: FDF SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300769.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX FHD" tvg-logo="https://miguia.tv/logos/neox.png" group-title="EUIES TDT",ES: NEOX FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300770.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX HD" tvg-logo="https://miguia.tv/logos/neox.png" group-title="EUIES TDT",ES: NEOX HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300771.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX SD" tvg-logo="https://miguia.tv/logos/neox.png" group-title="EUIES TDT",ES: NEOX SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300772.ts
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY FHD" tvg-logo="https://miguia.tv/logos/divinity.png" group-title="EUIES TDT",ES: DIVINITY FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300773.ts
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY HD" tvg-logo="https://miguia.tv/logos/divinity.png" group-title="EUIES TDT",ES: DIVINITY HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300774.ts
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY SD" tvg-logo="https://miguia.tv/logos/divinity.png" group-title="EUIES TDT",ES: DIVINITY SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300775.ts
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA FHD" tvg-logo="https://miguia.tv/logos/nova.png" group-title="EUIES TDT",ES: NOVA FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300776.ts
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA HD" tvg-logo="https://miguia.tv/logos/nova.png" group-title="EUIES TDT",ES: NOVA HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300777.ts
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA SD" tvg-logo="https://miguia.tv/logos/nova.png" group-title="EUIES TDT",ES: NOVA SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300778.ts
+#EXTINF:-1 tvg-id="dkissalt.es" tvg-name="ES: DKISS FHD" tvg-logo="https://miguia.tv/logos/dkiss.png" group-title="EUIES TDT",ES: DKISS FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300779.ts
+#EXTINF:-1 tvg-id="dkissalt.es" tvg-name="ES: DKISS HD" tvg-logo="https://miguia.tv/logos/dkiss.png" group-title="EUIES TDT",ES: DKISS HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300780.ts
+#EXTINF:-1 tvg-id="dkissalt.es" tvg-name="ES: DKISS SD" tvg-logo="https://miguia.tv/logos/dkiss.png" group-title="EUIES TDT",ES: DKISS SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300781.ts
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png" group-title="EUIES TDT",ES: MEGA FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300782.ts
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png" group-title="EUIES TDT",ES: MEGA HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300783.ts
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png" group-title="EUIES TDT",ES: MEGA SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300784.ts
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY FHD" tvg-logo="https://miguia.tv/logos/energy.png" group-title="EUIES TDT",ES: ENERGY FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300785.ts
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY HD" tvg-logo="https://miguia.tv/logos/energy.png" group-title="EUIES TDT",ES: ENERGY HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300786.ts
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY SD" tvg-logo="https://miguia.tv/logos/energy.png" group-title="EUIES TDT",ES: ENERGY SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300787.ts
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD FHD" tvg-logo="https://miguia.tv/logos/be-mad-tv.png" group-title="EUIES TDT",ES: BE MAD FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300788.ts
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD HD" tvg-logo="https://miguia.tv/logos/be-mad-tv.png" group-title="EUIES TDT",ES: BE MAD HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300789.ts
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD SD" tvg-logo="https://miguia.tv/logos/be-mad-tv.png" group-title="EUIES TDT",ES: BE MAD SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300790.ts
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="ES: TRECE TV FHD" tvg-logo="https://miguia.tv/logos/trece.png" group-title="EUIES TDT",ES: TRECE TV FHD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300791.ts
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="ES: TRECE TV HD" tvg-logo="https://miguia.tv/logos/trece.png" group-title="EUIES TDT",ES: TRECE TV HD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300792.ts
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="ES: TRECE TV SD" tvg-logo="https://miguia.tv/logos/trece.png" group-title="EUIES TDT",ES: TRECE TV SD
+http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/1300793.ts
+
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES DEPORTES",ES: #VAMOS SD
 http://fjkefyxy.g2knmce.xyz:80/play/hut828188/@JsumNYhQ7H/321073.ts
 #EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 SD
