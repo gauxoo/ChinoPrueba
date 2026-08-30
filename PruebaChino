@@ -51,6 +51,9 @@ http://amaru.dyndns.org:8870/0.m3u8
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200" group-title="Canarias" tvg-name="Noroeste TV",Noroeste TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTINF:-1 group-title="Astra Abanqueiro",M+ LALIGA TV HD
+http://192.168.1.131:81/4313_0_10818_22000_0_1_167_120_1038_167_17.ts
+#EXTINF:-1 group-title="Astra Abanqueiro",DAZN LALIGA HD
 https://stream.castr.com/5d1f649bed75c92e40481734/live_19364d50fbcd11ed91bd012c3488eabc/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qj92f7GsPI7R-YCYzsFj5mDoSCduHSgh8lwCWHFXbHAx6rNmLsB78RZlmfiqbjYzQdNh1Fj9sQ=s200" group-title="Canarias" tvg-name="Fuerteventura TV",Fuerteventura TV
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
