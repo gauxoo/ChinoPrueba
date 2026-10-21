@@ -51,10 +51,6 @@ http://amaru.dyndns.org:8870/0.m3u8
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200" group-title="Canarias" tvg-name="Noroeste TV",Noroeste TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/
-#EXTINF:-1 group-title="Astra Abanqueiro",M+ LALIGA TV HD
-http://192.168.1.131:81/4313_0_10818_22000_0_1_167_120_1038_167_17.ts
-#EXTINF:-1 group-title="Astra Abanqueiro",DAZN LALIGA HD
-https://stream.castr.com/5d1f649bed75c92e40481734/live_19364d50fbcd11ed91bd012c3488eabc/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qj92f7GsPI7R-YCYzsFj5mDoSCduHSgh8lwCWHFXbHAx6rNmLsB78RZlmfiqbjYzQdNh1Fj9sQ=s200" group-title="Canarias" tvg-name="Fuerteventura TV",Fuerteventura TV
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg" group-title="Canarias" tvg-name="Factoría de Carnaval",Factoría de Carnaval
@@ -238,4 +234,283 @@ http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6075/index.m3u8
 http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6073/index.m3u8
 #EXTINF:0 tvg-rec="3",M+ Liga de Campeones ES
 #EXTGRP:кино
-http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6396/index.m3u8
+http://9c54a664.edemist.com/iptv/VAELY9WB8FTQNL/6396/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY MOSAICO" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCT-VQH9xQ8BS1drbJgFuFtvv-yWp09ArP-NGs5xMmRFA.png" group-title="PORTUGAL",PT : TVI REALITY MOSAICO
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412975.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY LOW" tvg-logo="" group-title="PORTUGAL",PT : TVI REALITY LOW
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412974.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY HD HEVC" tvg-logo="" group-title="PORTUGAL",PT : TVI REALITY HD HEVC
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412973.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY HD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCRn_a9HeE94Mga74KeVSjjs4zhxrsjgSE_8gz2gNcbag.png" group-title="PORTUGAL",PT : TVI REALITY HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412972.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY FHD 265" tvg-logo="" group-title="PORTUGAL",PT : TVI REALITY FHD 265
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412971.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY CAMARA 3" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jDV2OSKF_2a_3wbuctx2kxnmophei9KIDyVqcQKs5zI-w.png" group-title="PORTUGAL",PT : TVI REALITY CAMARA 3
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412969.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY CAMARA 2" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jDV2OSKF_2a_3wbuctx2kxnmophei9KIDyVqcQKs5zI-w.png" group-title="PORTUGAL",PT : TVI REALITY CAMARA 2
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412968.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY CAMARA 1" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jDV2OSKF_2a_3wbuctx2kxnmophei9KIDyVqcQKs5zI-w.png" group-title="PORTUGAL",PT : TVI REALITY CAMARA 1
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412967.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY  ᴴᴰ" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCRn_a9HeE94Mga74KeVSjjs4zhxrsjgSE_8gz2gNcbag.png" group-title="PORTUGAL",PT : TVI REALITY  ᴴᴰ
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412966.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI REALITY" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCRn_a9HeE94Mga74KeVSjjs4zhxrsjgSE_8gz2gNcbag.png" group-title="PORTUGAL",PT : TVI REALITY
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412965#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="ESPAÑA",LA 1 SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414800.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="ESPAÑA",LA 1 HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414799.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="ESPAÑA",LA 1 FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414798.ts
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="ESPAÑA",LA 2 SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414797.ts
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="ESPAÑA",LA 2 HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414796.ts
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="ESPAÑA",LA 2 FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414795.ts
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3 SD" tvg-logo="https://i.postimg.cc/85JjnqB4/1200px-Antena-3-2017-svg.png" group-title="ESPAÑA",ANTENA 3 SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414794.ts
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3 HD" tvg-logo="https://i.postimg.cc/85JjnqB4/1200px-Antena-3-2017-svg.png" group-title="ESPAÑA",ANTENA 3 HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414793.ts
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3 FHD" tvg-logo="https://i.postimg.cc/85JjnqB4/1200px-Antena-3-2017-svg.png" group-title="ESPAÑA",ANTENA 3 FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414792.ts
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO SD" tvg-logo="https://i.postimg.cc/qR1Xrf93/1200px-Logotipo-de-Cuatro-svg.png" group-title="ESPAÑA",CUATRO SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414791.ts
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO HD" tvg-logo="https://i.postimg.cc/qR1Xrf93/1200px-Logotipo-de-Cuatro-svg.png" group-title="ESPAÑA",CUATRO HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414790.ts
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO FHD" tvg-logo="https://i.postimg.cc/qR1Xrf93/1200px-Logotipo-de-Cuatro-svg.png" group-title="ESPAÑA",CUATRO FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414789.ts
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="ESPAÑA",TELECINCO SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414788.ts
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="ESPAÑA",TELECINCO HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414787.ts
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="ESPAÑA",TELECINCO FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414786.ts
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA SD" tvg-logo="https://i.postimg.cc/XN2vFzQH/712px-La-Sexta-A3-M-svg.png" group-title="ESPAÑA",LA SEXTA SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414785.ts
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA HD" tvg-logo="https://i.postimg.cc/XN2vFzQH/712px-La-Sexta-A3-M-svg.png" group-title="ESPAÑA",LA SEXTA HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414784.ts
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA FHD" tvg-logo="https://i.postimg.cc/XN2vFzQH/712px-La-Sexta-A3-M-svg.png" group-title="ESPAÑA",LA SEXTA FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414783.ts
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" group-title="ESPAÑA",24H
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414781.ts
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" group-title="ESPAÑA",24 HORAS SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414780.ts
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" group-title="ESPAÑA",24 HORAS HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414779.ts
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" group-title="ESPAÑA",24 HORAS FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414778.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS +" tvg-logo="https://i.postimg.cc/CxtLMVH3/Movistar-Plus-2022.png" group-title="ESPAÑA",MOVISTAR PLUS +
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414777.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS HD" tvg-logo="https://i.postimg.cc/CxtLMVH3/Movistar-Plus-2022.png" group-title="ESPAÑA",MOVISTAR PLUS HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414776.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS +  FHD" tvg-logo="https://i.postimg.cc/CxtLMVH3/Movistar-Plus-2022.png" group-title="ESPAÑA",MOVISTAR PLUS +  FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414775.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/250px-TEN_2024_Logo.svg.png" group-title="ESPAÑA",TEN SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414774.ts
+#EXTINF:-1 tvg-id="" tvg-name="DKISS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1280px-DKISS_2019_logo.svg.png" group-title="ESPAÑA",DKISS SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414773.ts
+#EXTINF:-1 tvg-id="BEMAD" tvg-name="BEMAD" tvg-logo="https://i.postimg.cc/wxcX1wrf/Be-Mad-Icon.png" group-title="ESPAÑA",BEMAD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414772.ts
+#EXTINF:-1 tvg-id="BEMAD" tvg-name="BEMAD TV HD" tvg-logo="https://i.postimg.cc/wxcX1wrf/Be-Mad-Icon.png" group-title="ESPAÑA",BEMAD TV HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414771.ts
+#EXTINF:-1 tvg-id="BEMAD" tvg-name="BEMAD TV FHD" tvg-logo="https://i.postimg.cc/wxcX1wrf/Be-Mad-Icon.png" group-title="ESPAÑA",BEMAD TV FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414770.ts
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX  HD" tvg-logo="https://i.postimg.cc/d19b1zTR/neox.png" group-title="ESPAÑA",NEOX  HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414769.ts
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX HD" tvg-logo="https://i.postimg.cc/d19b1zTR/neox.png" group-title="ESPAÑA",NEOX HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414768.ts
+#EXTINF:-1 tvg-id="NOVANT" tvg-name="NOVA HD" tvg-logo="https://i.postimg.cc/8PkZN7H0/Nova-2012.png" group-title="ESPAÑA",NOVA HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414767.ts
+#EXTINF:-1 tvg-id="NOVANT" tvg-name="NOVA FHD" tvg-logo="https://i.postimg.cc/8PkZN7H0/Nova-2012.png" group-title="ESPAÑA",NOVA FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414766.ts
+#EXTINF:-1 tvg-id="ENERGYE" tvg-name="ENERGY FHD" tvg-logo="https://e7.pngegg.com/pngimages/553/127/png-clipart-energy-mediaset-espana-comunicacion-television-channel-factoria-de-ficcion-energy-television-text.png" group-title="ESPAÑA",ENERGY FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414765.ts
+#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY HD" tvg-logo="https://e7.pngegg.com/pngimages/553/127/png-clipart-energy-mediaset-espana-comunicacion-television-channel-factoria-de-ficcion-energy-television-text.png" group-title="ESPAÑA",ENERGY HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414764.ts
+#EXTINF:-1 tvg-id="DIVINIT" tvg-name="DIVINITY FHD" tvg-logo="https://i.postimg.cc/13h2Pm8n/Divinity-2012.png" group-title="DOCUMENTALES ESPAÑA",DIVINITY FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414763.ts
+#EXTINF:-1 tvg-id="DIVINIT" tvg-name="DIVINITY HD" tvg-logo="https://i.postimg.cc/13h2Pm8n/Divinity-2012.png" group-title="DOCUMENTALES ESPAÑA",DIVINITY HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414762.ts
+#EXTINF:-1 tvg-id="FDFS" tvg-name="FDF HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821" group-title="ESPAÑA",FDF HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414761.ts
+#EXTINF:-1 tvg-id="FDFS" tvg-name="FDF FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821" group-title="ESPAÑA",FDF FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414760.ts
+#EXTINF:-1 tvg-id="DISCMAX" tvg-name="DMAX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ESPAÑA",DMAX HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414759.ts
+#EXTINF:-1 tvg-id="DISCMAX" tvg-name="DMAX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ESPAÑA",DMAX FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414758.ts
+#EXTINF:-1 tvg-id="STARHD" tvg-name="STAR TVE" tvg-logo="https://i.postimg.cc/853dgb1R/Star-TVE-logo-300x169.png" group-title="ESPAÑA",STAR TVE
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414757.ts
+#EXTINF:-1 tvg-id="STARHD" tvg-name="STAR TVE FHD" tvg-logo="https://i.postimg.cc/853dgb1R/Star-TVE-logo-300x169.png" group-title="ESPAÑA",STAR TVE FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414756.ts
+#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="VINTV" tvg-logo="https://i.postimg.cc/Y9czGj1B/image.jpg" group-title="ESPAÑA",VINTV
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414755.ts
+#EXTINF:-1 tvg-id="" tvg-name="VINTV FHD" tvg-logo="https://i.postimg.cc/Y9czGj1B/image.jpg" group-title="ESPAÑA",VINTV FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414754.ts
+#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="AMC WESTERN HD" tvg-logo="https://i.postimg.cc/jdwLD2xd/AMCWESTERN-COLOR-1.png" group-title="CINE Y SERIES ESPAÑA",AMC WESTERN HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414753.ts
+#EXTINF:-1 tvg-id="Canal 13 de Panamá (Telemetro).pa" tvg-name="AMC WESTERN FHD" tvg-logo="https://i.postimg.cc/jdwLD2xd/AMCWESTERN-COLOR-1.png" group-title="CINE Y SERIES ESPAÑA",AMC WESTERN FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414752.ts
+#EXTINF:-1 tvg-id="COCINA" tvg-name="CANAL COCINA HD" tvg-logo="https://i.postimg.cc/rswPpjWK/Canal-Cocina.png" group-title="DOCUMENTALES ESPAÑA",CANAL COCINA HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414747.ts
+#EXTINF:-1 tvg-id="COCINA" tvg-name="CANAL COCINA FHD" tvg-logo="https://i.postimg.cc/rswPpjWK/Canal-Cocina.png" group-title="DOCUMENTALES ESPAÑA",CANAL COCINA FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414746.ts
+#EXTINF:-1 tvg-id="COCINA" tvg-name="CANAL COCINA 4K UHD" tvg-logo="https://i.postimg.cc/rswPpjWK/Canal-Cocina.png" group-title="DOCUMENTALES ESPAÑA",CANAL COCINA 4K UHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414745.ts
+#EXTINF:-1 tvg-id="DECASA" tvg-name="AMC LIVING FHD" tvg-logo="https://i.postimg.cc/MKfRBd67/image-181.png" group-title="DOCUMENTALES ESPAÑA",AMC LIVING FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414743.ts
+#EXTINF:-1 tvg-id="DECASA" tvg-name="AMC LIVING  UHD" tvg-logo="https://i.postimg.cc/MKfRBd67/image-181.png" group-title="DOCUMENTALES ESPAÑA",AMC LIVING  UHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414742.ts
+#EXTINF:-1 tvg-id="HISTSPA" tvg-name="HISTORIA HD" tvg-logo="https://i.postimg.cc/mg7qrtJf/Historia-2022-Spain.jpg" group-title="DOCUMENTALES ESPAÑA",HISTORIA HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414741.ts
+#EXTINF:-1 tvg-id="HISTSPA" tvg-name="HISTORIA FHD" tvg-logo="https://i.postimg.cc/mg7qrtJf/Historia-2022-Spain.jpg" group-title="DOCUMENTALES ESPAÑA",HISTORIA FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414740.ts
+#EXTINF:-1 tvg-id="NGEOIB" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414739.ts
+#EXTINF:-1 tvg-id="NGEOIB" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414738.ts
+#EXTINF:-1 tvg-id="NGEOIB" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC WILD HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414737.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC WILD FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414736.ts
+#EXTINF:-1 tvg-id="DISCHIB" tvg-name="DISCOVERY CHANNEL  HD" tvg-logo="https://i.postimg.cc/Sx7nff3Z/Discovery-Channel-2019.png" group-title="DOCUMENTALES ESPAÑA",DISCOVERY CHANNEL  HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414735.ts
+#EXTINF:-1 tvg-id="DISCHIB" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.postimg.cc/Sx7nff3Z/Discovery-Channel-2019.png" group-title="DOCUMENTALES ESPAÑA",DISCOVERY CHANNEL FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414734.ts
+#EXTINF:-1 tvg-id="PARAESP" tvg-name="SQUIRREL 2" tvg-logo="https://i.postimg.cc/GhpWcTjM/images-q-tbn-ANd9Gc-RT9g-Pqm-ZAkcr-Qx-Bz-Vfs-Ey-OY1zaaql-Bj-URi3w-s.png" group-title="ESPAÑA",SQUIRREL 2
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414733.ts
+#EXTINF:-1 tvg-id="PARAESP" tvg-name="SQUIRREL 2 FHD" tvg-logo="https://i.postimg.cc/GhpWcTjM/images-q-tbn-ANd9Gc-RT9g-Pqm-ZAkcr-Qx-Bz-Vfs-Ey-OY1zaaql-Bj-URi3w-s.png" group-title="ESPAÑA",SQUIRREL 2 FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414732.ts
+#EXTINF:-1 tvg-id="ODSEATV" tvg-name="ODISEA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="DOCUMENTALES ESPAÑA",ODISEA HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414731.ts
+#EXTINF:-1 tvg-id="ODSEATV" tvg-name="ODISEA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="DOCUMENTALES ESPAÑA",ODISEA FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414730.ts
+#EXTINF:-1 tvg-id="ODSEATV" tvg-name="ODISEA 4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="DOCUMENTALES ESPAÑA",ODISEA 4K UHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414729.ts
+#EXTINF:-1 tvg-id="DISESP" tvg-name="SQUIRREL FHD" tvg-logo="https://pbs.twimg.com/media/GgpUjcSWMAAL994.jpg:large" group-title="ESPAÑA",SQUIRREL FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414721.ts
+#EXTINF:-1 tvg-id="NIKESP" tvg-name="NICKELODEON HD" tvg-logo="https://i.postimg.cc/v8S92SR8/Nickelodeon-2023-logo.png" group-title="ESPAÑA",NICKELODEON HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414720.ts
+#EXTINF:-1 tvg-id="CLANTVE" tvg-name="CLAN OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="ESPAÑA",CLAN OP1
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414719.ts
+#EXTINF:-1 tvg-id="CLANTVE" tvg-name="CLAN OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="ESPAÑA",CLAN OP2
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414718.ts
+#EXTINF:-1 tvg-id="DJRESP" tvg-name="DISNEY Jr. HD" tvg-logo="https://i.postimg.cc/XNPBjgTh/Disney-Junior-2019.png" group-title="ESPAÑA",DISNEY Jr. HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414717.ts
+#EXTINF:-1 tvg-id="DJRESP" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.postimg.cc/JnVrpB92/2022-Disney-Channel-logo.png" group-title="ESPAÑA",DISNEY CHANNEL
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414716.ts
+#EXTINF:-1 tvg-id="NICJRS" tvg-name="NICKJr. HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="ESPAÑA",NICKJr. HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414714.ts
+#EXTINF:-1 tvg-id="NICJRS" tvg-name="NICK Jr. FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="ESPAÑA",NICK Jr. FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414713.ts
+#EXTINF:-1 tvg-id="NIKESP" tvg-name="NICKELODEON FHD" tvg-logo="https://i.postimg.cc/v8S92SR8/Nickelodeon-2023-logo.png" group-title="ESPAÑA",NICKELODEON FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414712.ts
+#EXTINF:-1 tvg-id="BOINGE" tvg-name="BOING" tvg-logo="https://i.postimg.cc/Yqd4gLQ3/Boing.png" group-title="ESPAÑA",BOING
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414711.ts
+#EXTINF:-1 tvg-id="BABYTVS" tvg-name="BABY TV HD" tvg-logo="https://i.postimg.cc/RFcr5fvg/babytv.png" group-title="ESPAÑA",BABY TV HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414709.ts
+#EXTINF:-1 tvg-id="MEZESP" tvg-name="MEZZO LIVE HD" tvg-logo="https://i.postimg.cc/Vk58hdpF/Mezzo-Live-HD.png" group-title="ESPAÑA",MEZZO LIVE HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414708.ts
+#EXTINF:-1 tvg-id="SUNDESP" tvg-name="SUNDANCE HD" tvg-logo="https://i.postimg.cc/xd8H0T0G/Sundance-TV-2022.png" group-title="ESPAÑA",SUNDANCE HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414698.ts
+#EXTINF:-1 tvg-id="SUNDESP" tvg-name="SUNDANCE FHD" tvg-logo="https://i.postimg.cc/xd8H0T0G/Sundance-TV-2022.png" group-title="ESPAÑA",SUNDANCE FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414697.ts
+#EXTINF:-1 tvg-id="MTVESPA" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="ESPAÑA",MTV
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414696.ts
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="[ES] CAZAVISION HD1080P" tvg-logo="https://i.postimg.cc/PJKwpwSh/Captura-de-pantalla-2024-02-01-134427-removebg-preview.png" group-title="DOCUMENTALES ESPAÑA",[ES] CAZAVISION HD1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414444.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] EL TORO TV  HD 720P" tvg-logo="https://i.postimg.cc/N0DMZLzb/images-q-tbn-ANd9Gc-Q33q-Kg-Gchxs6Wn-Jey7c8F9qpc6Cp9HJpr4t-Q-s.png" group-title="DOCUMENTALES ESPAÑA",[ES] EL TORO TV  HD 720P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414442.ts
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="[ES] EL TORO TV HD 1080P" tvg-logo="https://i.postimg.cc/N0DMZLzb/images-q-tbn-ANd9Gc-Q33q-Kg-Gchxs6Wn-Jey7c8F9qpc6Cp9HJpr4t-Q-s.png" group-title="DOCUMENTALES ESPAÑA",[ES] EL TORO TV HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414441.ts
+#EXTINF:-1 tvg-id="Enfamilia" tvg-name="[ES] ENFAMILIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="DOCUMENTALES ESPAÑA",[ES] ENFAMILIA SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414440.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] CAZA y PESCA HD 720P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="DOCUMENTALES ESPAÑA",[ES] CAZA y PESCA HD 720P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414439.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] CAZA y PESCA HD 1080P" tvg-logo="https://i.postimg.cc/prCYxWZQ/Caza-pesca-m.png" group-title="DOCUMENTALES ESPAÑA",[ES] CAZA y PESCA HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414438.ts
+#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 720P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="DOCUMENTALES ESPAÑA",[ES] IBERALIA 100% PESCA HD 720P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414437.ts
+#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% PESCA HD 1080P" tvg-logo="https://i.postimg.cc/9Q6XmGzb/iberalia-Pesca-512.png" group-title="DOCUMENTALES ESPAÑA",[ES] IBERALIA 100% PESCA HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414436.ts
+#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 720P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="DOCUMENTALES ESPAÑA",[ES] IBERALIA 100% CAZA HD 720P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414435.ts
+#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 1080P" tvg-logo="https://i.postimg.cc/QxqcWdcc/iberalia-Caza-512.png" group-title="DOCUMENTALES ESPAÑA",[ES] IBERALIA 100% CAZA HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414434.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] IBERALIA TV HD 720P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="DOCUMENTALES ESPAÑA",[ES] IBERALIA TV HD 720P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414433.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] IBERALIA TV HD 1080P" tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="DOCUMENTALES ESPAÑA",[ES] IBERALIA TV HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414432.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] DMAX HD 1080P" tvg-logo="https://i.postimg.cc/KYM6YBBG/DMax-Espa-a-svg.png" group-title="DOCUMENTALES ESPAÑA",[ES] DMAX HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414431.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] ODISEA HD 1080P" tvg-logo="https://i.postimg.cc/K8yvFGdg/descarga.png" group-title="DOCUMENTALES ESPAÑA",[ES] ODISEA HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414430.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] ODISEA UHD 4K" tvg-logo="https://i.postimg.cc/K8yvFGdg/descarga.png" group-title="DOCUMENTALES ESPAÑA",[ES] ODISEA UHD 4K
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414429.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC LIVING SD" tvg-logo="https://i.postimg.cc/MKfRBd67/image-181.png" group-title="DOCUMENTALES ESPAÑA",AMC LIVING SD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414428.ts
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="[ES] M+ DOCUMENTALES HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="DOCUMENTALES ESPAÑA",[ES] M+ DOCUMENTALES HD 720P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414427.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] M+ DOCUMENTALES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="DOCUMENTALES ESPAÑA",[ES] M+ DOCUMENTALES HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414426.ts
+#EXTINF:-1 tvg-id="¡HOLA! TV SD.co" tvg-name="[ES] DISCOVERY HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="DOCUMENTALES ESPAÑA",[ES] DISCOVERY HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414424.ts
+#EXTINF:-1 tvg-id="Historia" tvg-name="[ES] HISTORIA HD 720P" tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="DOCUMENTALES ESPAÑA",[ES] HISTORIA HD 720P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414423.ts
+#EXTINF:-1 tvg-id="Historia" tvg-name="[ES] HISTORIA HD 1080P" tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="DOCUMENTALES ESPAÑA",[ES] HISTORIA HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414422.ts
+#EXTINF:-1 tvg-id="" tvg-name="[ES] NAT GEO WILD HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",[ES] NAT GEO WILD HD 720P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414421.ts
+#EXTINF:-1 tvg-id="" tvg-name="[ES] NAT GEO WILD HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",[ES] NAT GEO WILD HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414420.ts
+#EXTINF:-1 tvg-id="" tvg-name="[ES] NAT GEOGRAPH HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="DOCUMENTALES ESPAÑA",[ES] NAT GEOGRAPH HD 720P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414419.ts
+#EXTINF:-1 tvg-id="" tvg-name="[ES] NAT GEOGRAPH HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="DOCUMENTALES ESPAÑA",[ES] NAT GEOGRAPH HD 1080P
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/414418.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTRENOS por M+" tvg-logo="https://i.postimg.cc/g29S5gN3/3840px-Estrenos-por-Movistar-Plus-2022-logo-svg.png" group-title="CINE Y SERIES ESPAÑA",ESTRENOS por M+
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327767.ts
+#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="CINE ESPAÑOL | M+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="CINE Y SERIES ESPAÑA",CINE ESPAÑOL | M+
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327769.ts
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="INDIE por M+" tvg-logo="https://i.ibb.co/nR2kCWS/descarga.png" group-title="CINE Y SERIES ESPAÑA",INDIE por M+
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327771.ts
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="M+  ESTRENOS FHD" tvg-logo="https://i.postimg.cc/g29S5gN3/3840px-Estrenos-por-Movistar-Plus-2022-logo-svg.png" group-title="CINE Y SERIES ESPAÑA",M+  ESTRENOS FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327772.ts
+#EXTINF:-1 tvg-id="M+ #0" tvg-name="M+" tvg-logo="https://i.postimg.cc/CxtLMVH3/Movistar-Plus-2022.png" group-title="CINE Y SERIES ESPAÑA",M+
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327774.ts
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="INDIE por M+ FHD" tvg-logo="https://i.ibb.co/nR2kCWS/descarga.png" group-title="CINE Y SERIES ESPAÑA",INDIE por M+ FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327775.ts
+#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-name="ACCION por M+  HD" tvg-logo="https://i.postimg.cc/HL63psfd/Acci-n-por-Movistar-Plus-2023.png" group-title="CINE Y SERIES ESPAÑA",ACCION por M+  HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327776.ts
+#EXTINF:-1 tvg-id="M+ Acción" tvg-name="ACCION por M+ FHD" tvg-logo="https://i.postimg.cc/HL63psfd/Acci-n-por-Movistar-Plus-2023.png" group-title="CINE Y SERIES ESPAÑA",ACCION por M+ FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327778.ts
+#EXTINF:-1 tvg-id="M+ COMEDIA" tvg-name="COMEDIA por M+ HD" tvg-logo="https://i.postimg.cc/3rc6X9fY/Comedia-por-Movistar-Plus-2023.png" group-title="CINE Y SERIES ESPAÑA",COMEDIA por M+ HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327780.ts
+#EXTINF:-1 tvg-id="M+ COMEDIA" tvg-name="COMEDIA por M+ FHD" tvg-logo="https://i.postimg.cc/3rc6X9fY/Comedia-por-Movistar-Plus-2023.png" group-title="CINE Y SERIES ESPAÑA",COMEDIA por M+ FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327781.ts
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="DRAMA por M+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE Y SERIES ESPAÑA",DRAMA por M+
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327782.ts
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="DRAMA por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE Y SERIES ESPAÑA",DRAMA por M+ FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327784.ts
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="CLASICOS por M+ HD" tvg-logo="https://i.postimg.cc/YS2Kn06H/Cl-sicos-por-Movistar-Plus-2023-Logo-svg.png" group-title="CINE Y SERIES ESPAÑA",CLASICOS por M+ HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327785.ts
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="CLASICOS por M+ HD" tvg-logo="https://i.postimg.cc/YS2Kn06H/Cl-sicos-por-Movistar-Plus-2023-Logo-svg.png" group-title="CINE Y SERIES ESPAÑA",CLASICOS por M+ HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327787.ts
+#EXTINF:-1 tvg-id="M+ SERIES 2" tvg-name="M+ SERIES HD" tvg-logo="https://i.postimg.cc/8zg7x2ZG/images-q-tbn-ANd9Gc-Tno-YAM9xu-RXmfp-Rppdj-TNz-Qx-GOk-O9da-ERx-Aw-s.png" group-title="CINE Y SERIES ESPAÑA",M+ SERIES HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327791.ts
+#EXTINF:-1 tvg-id="M+ SERIES 2" tvg-name="M+  SERIES FHD" tvg-logo="https://i.postimg.cc/8zg7x2ZG/images-q-tbn-ANd9Gc-Tno-YAM9xu-RXmfp-Rppdj-TNz-Qx-GOk-O9da-ERx-Aw-s.png" group-title="CINE Y SERIES ESPAÑA",M+  SERIES FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327792.ts
+#EXTINF:-1 tvg-id="M+ SERIES" tvg-name="M+ SERIES HD" tvg-logo="https://i.postimg.cc/8zg7x2ZG/images-q-tbn-ANd9Gc-Tno-YAM9xu-RXmfp-Rppdj-TNz-Qx-GOk-O9da-ERx-Aw-s.png" group-title="CINE Y SERIES ESPAÑA",M+ SERIES HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327794.ts
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="TRECE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/1280px-Trece.svg.png" group-title="CINE Y SERIES ESPAÑA",TRECE FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327798.ts
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="CINE Y SERIES ESPAÑA",A3SERIES
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327799.ts
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES HD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="CINE Y SERIES ESPAÑA",A3SERIES HD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327800.ts
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES FHD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="CINE Y SERIES ESPAÑA",A3SERIES FHD
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/327802.ts
+.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : TVI LOW" tvg-logo="" group-title="PORTUGAL",PT : TVI LOW
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/412964.ts
+
+
+
+
