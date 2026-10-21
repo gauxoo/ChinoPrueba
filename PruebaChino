@@ -13,34 +13,14 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg" group-title="Canarias" tvg-name="Factoría de Carnaval",Factoría de Carnaval
 https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Toda la casa 24/7" tvg-logo="http://www.1play.cool:25461/images/2012e4a90bffc321ffa4cf300516d4dd.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Toda la casa 24/7
-https://alltvmx.com/live/Victoria89/Victoria89/1191130.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Sala" tvg-logo="http://www.1play.cool:25461/images/6b694e8cf87fc88d392ed8ebf81d9385.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Sala
-https://alltvmx.com/live/Victoria89/Victoria89/1191131.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Multicamaras" tvg-logo="http://www.1play.cool:25461/images/4ff5af1b069a22a76e460dd0d1bcaa1b.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Multicamaras
-https://alltvmx.com/live/Victoria89/Victoria89/1191132.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cuarto Tulum" tvg-logo="http://www.1play.cool:25461/images/81c9b3ffa6d12ffe2bfd1a22f5525dfe.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cuarto Tulum
-https://alltvmx.com/live/Victoria89/Victoria89/1191133.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cuarto Malibu" tvg-logo="http://www.1play.cool:25461/images/a2a2f72b9a6888194646afe60bafb214.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cuarto Malibu
-https://alltvmx.com/live/Victoria89/Victoria89/1191134.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cuarto Ibiza" tvg-logo="http://www.1play.cool:25461/images/fcb529a8a89e2bc9ca289ef887f5e737.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cuarto Ibiza
-https://alltvmx.com/live/Victoria89/Victoria89/1191135.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cocina" tvg-logo="http://www.1play.cool:25461/images/99281303f6eab9edf2ec9f7ffde1bbaa.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cocina
-https://alltvmx.com/live/Victoria89/Victoria89/1191136.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Baño" tvg-logo="http://www.1play.cool:25461/images/4aa469cbc5e9a2d795cf1e595bb00e49.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Baño
-https://alltvmx.com/live/Victoria89/Victoria89/1191137.ts
-#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Acceso Total" tvg-logo="http://www.1play.cool:25461/images/549aac0e52c7920ed6191d9f4390f69d.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Acceso Total
-https://alltvmx.com/live/Victoria89/Victoria89/1191138.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24/7
-https://alltvmx.com/live/Victoria89/Victoria89/749367.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 1
-https://alltvmx.com/live/Victoria89/Victoria89/749368.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 2
-https://alltvmx.com/live/Victoria89/Victoria89/749369.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 3
-https://alltvmx.com/live/Victoria89/Victoria89/749370.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
-https://alltvmx.com/live/Victoria89/Victoria89/749371.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Granja VIP: Acceso total 24/7 - 1" tvg-logo="https://i.postimg.cc/sgP0zG4g/Whats-App-Image-2026-09-06-at-19-30-55.jpg" group-title="LA GRANJA VIP✨",La Granja VIP: Acceso total 24/7 - 1
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/1718718.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Granja VIP: Acceso total 24/7 - 2" tvg-logo="https://i.postimg.cc/sgP0zG4g/Whats-App-Image-2026-09-06-at-19-30-55.jpg" group-title="LA GRANJA VIP✨",La Granja VIP: Acceso total 24/7 - 2
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/1718719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano UY OPC. 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSal-uRTRyzux8d8OzAWprv1gMVpEj6XHemZ_GAMfIAUGQzTpB9bPcRSUR_&s=10" group-title="GRAN HERMANO UY✨",Gran Hermano UY OPC. 1
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/1723003.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gran Hermano UY OPC. 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSal-uRTRyzux8d8OzAWprv1gMVpEj6XHemZ_GAMfIAUGQzTpB9bPcRSUR_&s=10" group-title="GRAN HERMANO UY✨",Gran Hermano UY OPC. 2
+http://lobuscaslotengo.com:8080/live/johanrivera1/edZzz3acfW/1723004.ts
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LancelotTelevision/picture?width=200&height=200" group-title="Canarias" tvg-name="Lancelot TV",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tenerifeplustv/picture?width=200&height=200" group-title="Canarias" tvg-name="Tenerife Plus+ TV",Tenerife Plus+ TV
